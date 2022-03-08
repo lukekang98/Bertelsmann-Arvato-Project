@@ -16,11 +16,14 @@
 * A report of the project can be found at [https://medium.com/p/283139054b73/]
 
 4. Concluison:
- The Airbnb price in Seattle has great relationship with factors including Location, Property types, room types, amenities, date, etc. However, the regression shows that these factors cannot fully explain the price. More data of other features may be needed.
- 
- Here's a analysis report link:  [https://medium.com/@lukekang98/four-things-important-for-pricing-your-airbnb-in-seattle-446b0531a69]
- 
+ Using PCA and Kmeans we managed to make clusters for general population and customers. And we have following conclusions of customers segmentation:
+* They are in good social status and fine lifestage.
+* They have cars that are good brands or with supreme attributes.
+* People who have higher online affinity are likely to be customers.
+* People who have financial typology of 'be prepared' or 'money saver' are more possible to be the customers than other typologies.
+
+For supervised learning, we built a classification model via XGboost and have a final RUCAOC score of 0.753.
  
  
  5. Acknowledgement:
- Thanks to Airbnb, providing such great and comprehensive data. And thanks to Kaggle, a good paltform for sharing data.
+ Thanks to Udacity and Arvato for the project design and data.
