@@ -8,6 +8,7 @@
 * Xgboost
 
 2. Project Overview:
+
   Arvato Financial Service is a mail order company in Germany. We are expected to use unsupervised learning method to report the customer segmentation. Also, supervised machine learning is applied to predict on whether the compaign targets would become the company's customers. Before we perform the learning methods, necessary data cleaning and trandormation are implemented for the requirements of machine learning.
  
 
