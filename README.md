@@ -17,6 +17,7 @@
 * A report of the project can be found at [https://medium.com/p/283139054b73/]
 
 4. Concluison:
+
  Using PCA and Kmeans we managed to make clusters for general population and customers. And we have following conclusions of customers segmentation:
 * They are in good social status and fine lifestage.
 * They have cars that are good brands or with supreme attributes.
